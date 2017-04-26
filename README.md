@@ -1,6 +1,6 @@
 # npmdoc-phantomjs-polyfill
 
-#### api documentation for  [phantomjs-polyfill (v0.0.2)](https://github.com/tom-james-watson/phantomjs-polyfill)  [![npm package](https://img.shields.io/npm/v/npmdoc-phantomjs-polyfill.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-phantomjs-polyfill) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-phantomjs-polyfill.svg)](https://travis-ci.org/npmdoc/node-npmdoc-phantomjs-polyfill)
+#### basic api documentation for  [phantomjs-polyfill (v0.0.2)](https://github.com/tom-james-watson/phantomjs-polyfill)  [![npm package](https://img.shields.io/npm/v/npmdoc-phantomjs-polyfill.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-phantomjs-polyfill) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-phantomjs-polyfill.svg)](https://travis-ci.org/npmdoc/node-npmdoc-phantomjs-polyfill)
 
 #### Polyfill for Function.prototype.bind
 
@@ -58,7 +58,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.0.2"
+    "version": "0.0.2",
+    "bin": {}
 }
 ```
 
